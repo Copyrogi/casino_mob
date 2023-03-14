@@ -1,0 +1,66 @@
+.container {
+	margin: 0 auto;
+	max-width: 100%;
+}
+.top {
+	display: block;
+}
+.logo {
+	margin: 0;
+    padding-top: 20px;
+}
+.top-menu ul {
+	display: block;
+}
+.top-menu li {
+	padding: 0;
+}
+.top-buttons {
+	display: flex;
+    flex-direction: column;
+}
+.top-buttons a {
+	margin: 0 0 15px 0;
+}
+footer .menu ul, .main-menu ul {
+	display: block;
+	text-align: center;
+}
+
+.table-left {
+	vertical-align: top;
+}
+.banner {
+	display: block;
+}
+.text-banner {
+	text-align: center;
+}
+.text-banner p {
+	color: white !important;
+}
+.buttons-banner a {
+	background: linear-gradient(180deg, #18FBCE 0%, #00CFA6 91.15%) !important;
+    color: #0A0B0D !important;
+	border: 1px solid #0A0B0D !important;
+}
+main, .about h1, .interface h2 {
+	padding-bottom: 15px;
+}
+.about, table, .slot, .slot, .diller, .second-h p, .second-h img {
+	margin-bottom: 20px;
+}
+.navigation {
+	margin-bottom: 0px;
+}
+.pre {
+	margin-bottom: 15px;
+}
+.diller h3 {
+	text-align: center;
+    margin-bottom: 25px;
+}
+.banner {
+	margin-top: 25px;
+	margin-bottom: 25px
+}
